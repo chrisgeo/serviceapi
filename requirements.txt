@@ -1,0 +1,12 @@
+Flask
+Flask-Script
+Flask-SQLAlchemy
+flask-restful
+flask-cors
+requests
+celery[redis]
+psycopg2
+flask-migrate
+alembic
+redis
+validictory

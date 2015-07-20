@@ -1,0 +1,6 @@
+ipdb
+ipython
+tox
+pytest-flask
+pytest
+pdbpp
